@@ -1,0 +1,10 @@
+C:\Users\Dravion\Documents\Visual Studio 2017\Projects\Foo\Foo\bin\Debug\Foo.exe.config
+C:\Users\Dravion\Documents\Visual Studio 2017\Projects\Foo\Foo\bin\Debug\Foo.exe
+C:\Users\Dravion\Documents\Visual Studio 2017\Projects\Foo\Foo\bin\Debug\Foo.pdb
+C:\Users\Dravion\Documents\Visual Studio 2017\Projects\Foo\Foo\obj\Debug\Foo.Properties.Resources.resources
+C:\Users\Dravion\Documents\Visual Studio 2017\Projects\Foo\Foo\obj\Debug\Foo.csproj.GenerateResource.cache
+C:\Users\Dravion\Documents\Visual Studio 2017\Projects\Foo\Foo\obj\Debug\Foo.csproj.CoreCompileInputs.cache
+C:\Users\Dravion\Documents\Visual Studio 2017\Projects\Foo\Foo\obj\Debug\Foo.exe
+C:\Users\Dravion\Documents\Visual Studio 2017\Projects\Foo\Foo\obj\Debug\Foo.pdb
+C:\Users\Dravion\Documents\Visual Studio 2017\Projects\Foo\Foo\obj\Debug\Foo.csprojResolveAssemblyReference.cache
+C:\Users\Dravion\Documents\Visual Studio 2017\Projects\Foo\Foo\obj\Debug\Foo.Form1.resources
